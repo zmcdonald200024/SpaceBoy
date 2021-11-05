@@ -1,0 +1,10 @@
+List of assets, all assets are from the Unity Store and searchable unless explicitly stated otherwise:
+
+Clean Vector Icons https://assetstore.unity.com/publishers/38930
+Hana Font https://assetstore.unity.com/publishers/11157
+LiquidFire Package 4 BSH Games (Coins) https://assetstore.unity.com/publishers/645
+Stylized Astronaut https://assetstore.unity.com/publishers/26166
+Stylized Crystal https://assetstore.unity.com/publishers/16677 
+Starfield Materials https://assetstore.unity.com/publishers/34566
+Stylized Lava TExture https://assetstore.unity.com/publishers/16677
+Spaceship https://assetstore.unity.com/packages/3d/props/industrial/spaceship-33345
